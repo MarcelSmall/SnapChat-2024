@@ -1,5 +1,7 @@
 # SnapChat-2024
 
+<img src="https://github.com/SungdaekKim/Yuotube/blob/main/Screenshot_2.png"/>
+
 +  ## ***Snapchat is for personal communication, not broadcasting***
 
 +  ## ***Snapchat is a fast and fun way to share the moment with your friends and family 👻***
@@ -20,3 +22,4 @@
 
 ### ***Download Snapchat, updates, logins and passwords, keys and other access here***
 
+<img src="https://github.com/SungdaekKim/Yuotube/blob/main/Screenshot_2.png"/>
